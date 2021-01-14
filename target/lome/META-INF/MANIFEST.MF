@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 Created-By: IntelliJ IDEA
 Built-By: 远上寒山
+<<<<<<< HEAD
 Build-Jdk: version 11.0.9
+=======
+Build-Jdk: 1.8.0_73
+>>>>>>> f67069759b94a862afaa05d3e81c561daec00c80
 

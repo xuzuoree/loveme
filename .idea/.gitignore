@@ -2,7 +2,11 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
+<<<<<<< HEAD
 /../../../../:\项目\oneme\.idea/dataSources/
+=======
+/../../../../:\项目\lome\.idea/dataSources/
+>>>>>>> f67069759b94a862afaa05d3e81c561daec00c80
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
